@@ -6,4 +6,4 @@ The store can also add (through a manager interface) back into inventory, create
 
 Rather unelegantly, you have to ctrl+c out of the interface every time. That will be edited out in the future, should I return to this project. 
 
-**[Click Here to Watch the Demo](bamazonDemo.mov)**.
+**[Click Here to Watch the Demo](https://youtu.be/DCxHmmL3LGQ)**.
